@@ -22,7 +22,7 @@ The CPU core will be based on the 32-bit RISC-V (RV32I + M) CPU in Verilog.
 
 **Done when**: a C program runs correctly in simulation.
 
-![5-stage core figure](img\5-stage.png)
+![5-stage core figure](\img\5-stage.png)
 
 _[Figure 1: Basic overview of 32-bit five-stage RV32I RISC-V processor]_
 
