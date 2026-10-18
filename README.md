@@ -24,7 +24,11 @@ The CPU core will be based on the 32-bit RISC-V (RV32I + M) CPU in Verilog.
 
 ![5-stage core figure](img/5-stage.png)
 
-_[Figure 1: Basic overview of 32-bit five-stage RV32I RISC-V processor]_
+_[Figure 1: Very basic overview of 32-bit five-stage RV32I processor]_
+
+![RV32IM Datapath](img/rv32im-datapath.jpg)
+
+_Figure 2: Detailed datapath of RV32I processor. Our CPU core will (probably) be based on this._
 
 **Completed when**: the CPU passes all official `riscv-tests` and C program (say, compute Fibonacci) runs correctly in simulation
 
