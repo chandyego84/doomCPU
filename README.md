@@ -43,6 +43,7 @@ The goal of this phase is to get a stable VGA image (no CPU needed) and our own 
 **RV32IM Sources**
 * [Official RV32IM Instruction Set](https://docs.riscv.org/reference/isa/v20260120/unpriv/rv32.html)
 * [RV32IM, from gates up -- a walkthrough](https://arvaer.com/writing/softcore/)
+    * [The full RV32IM spec laid out](https://arvaer.com/writing/softcore/docs/principles-of-operation.md)
 * [Olivia Core! (Chandler designed)](https://github.com/chandyego84/olivia-core)
 * [Computer Organization and Design ARM Edition' by David A. Patterson and John L. Hennessy (NOTE: Don't have to read the whole thing. There are more useful chapters like the 'Datapath' section.)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20ARM%20edition.pdf)
 
