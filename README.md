@@ -22,7 +22,7 @@ The CPU core will be based on the 32-bit RISC-V (RV32I + M) CPU in Verilog.
 
 **Done when**: a C program runs correctly in simulation.
 
-![5-stage core figure](\img\5-stage.png)
+![5-stage core figure](img/5-stage.png)
 
 _[Figure 1: Basic overview of 32-bit five-stage RV32I RISC-V processor]_
 
@@ -45,6 +45,5 @@ The goal of this phase is to get a stable VGA image (no CPU needed) and our own 
 * [RV32IM, from gates up -- a walkthrough](https://arvaer.com/writing/softcore/)
 * [Olivia Core! (Chandler designed)](https://github.com/chandyego84/olivia-core)
 * [Computer Organization and Design ARM Edition' by David A. Patterson and John L. Hennessy (NOTE: Don't have to read the whole thing. There are more useful chapters like the 'Datapath' section.)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20ARM%20edition.pdf)
-
 
 
